@@ -8,8 +8,13 @@ PM: Putri
 
 Bisa di Puncak.
 
-~~~php
+Kode inline `Ini kode Inline`
+
+```php
+
 <?php
+
 echo "Halo!";
-~~~
+
+```
 >
